@@ -46,13 +46,16 @@
 
 ---
 
-### 📊 GitHub Profile
+### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=laveezafatima72-sys&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=laveezafatima72-sys&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=laveezafatima72-sys&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=laveezafatima72-sys&layout=compact&theme=tokyonight)
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=laveezafatima72-sys&theme=tokyonight&hide_border=true" width="70%" />
+</p>
 
 ### 💜 Connect With Me
 
